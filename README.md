@@ -6,6 +6,7 @@
 
 ## UX Journal
 Journal 1
+
 Title: Interaction with Beat wireless Headphone
 Teng Xiong 
 3/6/2021
