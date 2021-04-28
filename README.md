@@ -5,6 +5,7 @@
 
 
 ## UX Journal
+![test image](bedroom%20image.jfif)
 Journal 1
 
 Title: Interaction with Beat wireless Headphone
