@@ -14,3 +14,8 @@ User friendly shouldn’t be an issue with software that is used to help solve a
 
 Since some of the mouses didn’t have the functionality to scroll left or right with their scroll wheel. 
 ![j2 mouse image](j2%20mouse%20image.png)
+
+In order for me to see the whole diagram. I have to zoom out until the whole diagram fits in the program screen. Then the problem is, it’s too small to be able to edit or read it. 
+![431w adobe xd 2](431w%20adobe%20xd%202.png)
+
+So, I have to search around for quite a while and asking my teammates for help in order to figure it out that you can actually mouse the scroll wheel on the mouse to the left(side) and right(side) to move it. But if your mice didn’t have that feature, then you pretty much can’t move the page to left or right. Unless you know another way that I didn’t know.
