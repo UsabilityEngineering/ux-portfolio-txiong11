@@ -42,4 +42,4 @@ You may think that the set of light below is an indication of the volume, but it
 ![beat headphone 10.jpg](Picture10.png)
 
 Conclusion:
-After play around with it for about 2 days, I can finally learn how it work. Memorizes how each button work is hard at first, but once you know how those buttons work, it is easy to use and a nice headphone to have. This beat headphone has a very high quality of sound and the headphone physically looks great. One thing that I kind of did not like is that, if you do not use it for a long period of time, then you will have to figure out the features of those buttons again. 
+After I play around with it for about 2 days, I can finally learn how to work it. Memorizes how each button work is hard at first, but once you know how those buttons work, it is easy to use and a nice headphone to have. This beat headphone has a very high quality of sound and the headphone physically looks great. One thing that I kind of did not like is that, if you do not use it for a long period of time, then you will have to figure out the features of those buttons again. 
