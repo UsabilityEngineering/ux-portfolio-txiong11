@@ -24,6 +24,7 @@ The same with the volume buttons. Can you tell if there is a volume buttons on t
 ![beat headphone 4.jpg](Picture4.png)
 
 Probable no, since the usual volume buttons has some type of indication like this or a + and - : 
+
 ![beat headphone 5.jpg](Picture5.png)
 ![beat headphone 6.jpg](Picture6.png)
 ![beat headphone 7.jpg](Picture7.png)
