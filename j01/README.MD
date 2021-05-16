@@ -11,4 +11,8 @@ Beat wireless headphones is such a good quality headphone with many great featur
 
 The power button has no sign, just a little circle button. When the headphone is not on, you just see a little dented black circle button and when it on, it has a little light in the center of that button. But there is no indication that the button is the power button, usually the power button has a standard symbol like in the second image. 
 
+On the headphone
+![beat headphone 2.jpg](Picture2.jpg)
 
+Common symbol
+![beat headphone 3.jpg](Picture3.jpg)
