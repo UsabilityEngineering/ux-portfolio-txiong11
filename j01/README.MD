@@ -34,7 +34,7 @@ The volume buttons for this headphone are here, no indicator:
 Ok, so after you figure out where the power button is. How do you connect your device to the headphone? There is no sign for it. There are two buttons, one on each side, but how do you connect to it. There is no indication for those two buttons.  To connect to this device, you will have to press and hold the button mark below for 3 seconds to activate the search for Bluetooth connection and then it device name will appear in the device that you want to connect with it.  
 ![beat headphone 9.jpg](Picture9.png)
 
-You may think that the set of light below is an indication of the volume, but it is not. That set of light is an indication of battery power. As the battery getting low, this set of light bar will decrease as well. 
+You may think that the set of light below is an indication of the volume, but it is not. That set of light is an indication of battery power. As the battery getting low, this set of light bars will decrease as well. 
 
 ![beat headphone 10.jpg](Picture10.png)
 
