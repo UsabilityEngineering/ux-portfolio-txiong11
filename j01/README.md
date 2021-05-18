@@ -1,13 +1,13 @@
 
 ## Journal 1
 
-## Interaction with Beath wireless Headphone 
+## Interaction with Beats wireless Headphone 
 
 ![beat headphone 1.jpg](Picture1.jpg)
 
 Beats Studio3 Wireless over-ear headphones delivers premium sound while blocking external noise with Active Noise Cancelling. Premium sound. Real-time audio calibration preserves clarity, range, and emotion to deliver a premium listening experience.
 
-Beat wireless headphones is such a good quality headphone with many great features, but being a first-time user of the headphone, its quite complicated. Figuring out the feature of the headphone and how to use it is sometime annoying. 
+Beats wireless headphones it is very a good quality headphone with many great features, but being a first-time user of the headphone, it can be quite complicated. Figuring out the feature of the headphone and how to use it is sometime annoying. 
 
 The power button has no sign, just a little circle button. When the headphone is not on, you just see a little dented black circle button and when it on, it has a little light in the center of that button. But there is no indication that the button is the power button, usually the power button has a standard symbol like in the second image. 
 
@@ -19,11 +19,11 @@ Common symbol
 
 ![beat headphone 3.jpg](Picture3.jpg)
 
-The same with the volume buttons. Can you tell if there is a volume buttons on the headphone in this picture? 
+The same with the volume buttons. Can you tell if there are volume buttons on the headphone in this picture? 
 
 ![beat headphone 4.jpg](Picture4.png)
 
-Probable no, since the usual volume buttons has some type of indication like this or a + and - : 
+Probable not, since the usual volume buttons have some type of indication like this or a + and - : 
 
 ![beat headphone 5.jpg](Picture5.png)
 ![beat headphone 6.jpg](Picture6.png)
@@ -42,4 +42,5 @@ You may think that the set of light below is an indication of the volume, but it
 ![beat headphone 10.jpg](Picture10.png)
 
 Conclusion:
-After I play around with it for about 2 days, I can finally learn how to work it. Memorizes how each button work is hard at first, but once you know how those buttons work, it is easy to use and a nice headphone to have. This beat headphone has a very high quality of sound and the headphone physically looks great. One thing that I kind of did not like is that, if you do not use it for a long period of time, then you will have to figure out the features of those buttons again. 
+
+After I play around with the Beats Studio3 headphone for about 2 days, I can finally learn how to work it. Remembering how each buttons work is hard at first, but once you know how those buttons work, it is easy to use and a nice headphone to have. This beat headphone has a very high quality of sound and physically looks great. The feature are not memoriable; if you do not use it for a long period of time, then you will have to figure out the features of those buttons again. 
