@@ -8,6 +8,6 @@
 
 1. [J01 Beat Wireless Headphone](j01/)
 
-3. [J02 Adobe XD](https://github.com/UsabilityEngineering/ux-portfolio-txiong11/tree/master/j02)
+3. [J02 Adobe XD](j02/)
 
 
